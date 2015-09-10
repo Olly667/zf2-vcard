@@ -19,10 +19,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "Olly667/yaml": "1.*",
+        "Olly667/yaml": "dev-master",
         "zendframework/zendframework": "2.*",
         "heartsentwined/arg-validator": "1.*",
-        "Olly667/zf2-doctrine": "1.*",
+        "Olly667/zf2-doctrine": "dev-master",
         "sabre/vobject": "2.0.*",
         "heartsentwined/utf8": "1.*",
         "heartsentwined/date-time-parser": "1.*"
