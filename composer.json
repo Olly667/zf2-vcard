@@ -19,7 +19,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "heartsentwined/yaml": "1.*",
+        "Olly667/yaml": "1.*",
         "zendframework/zendframework": "2.*",
         "heartsentwined/arg-validator": "1.*",
         "heartsentwined/zf2-doctrine": "1.*",
